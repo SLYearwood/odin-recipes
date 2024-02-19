@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: red;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-family: "Kanit";
+}
+
+li {
+    font-weight: bold;
+}
+
+.recipes {
+    display: inline;
+    text-align: center;
+}
